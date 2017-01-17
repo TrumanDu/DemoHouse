@@ -9,7 +9,7 @@ var fs = require('fs');
  */
 var root = __dirname,
 	distMd = 'list.md';
-	url = 'https://airen.github.io/DemoHouse/';
+	url = 'https://trumandu.github.io/DemoHouse/';
 
 
 //
